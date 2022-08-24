@@ -1,0 +1,28 @@
+{
+  "artists": [
+    {
+        "id": 1,
+        "label": "Apple Music",
+        "name": "Chris Brown",
+         "amountPaid": 500
+    }, {
+        "label": "Sony",
+        "name": "Future Hendrixx",
+         "amountPaid": 1800,
+         "id": 2
+
+    }, {
+        "Label": "Cash money",
+        "name": "Kendrick Lamar",
+         "amountPaid": 1500,
+         "id": 3
+
+    }, {
+        "label": "Ovo",
+        "name": "Dreezy Drake",
+         "amountPaid": 2650,
+         "id": 4
+
+    }
+  ]
+}
